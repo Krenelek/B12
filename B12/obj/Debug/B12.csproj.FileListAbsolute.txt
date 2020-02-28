@@ -1,0 +1,6 @@
+c:\users\adamk\onedrive\dokumenty\visual studio 2015\Projects\B12\B12\bin\Debug\B12.exe.config
+c:\users\adamk\onedrive\dokumenty\visual studio 2015\Projects\B12\B12\bin\Debug\B12.exe
+c:\users\adamk\onedrive\dokumenty\visual studio 2015\Projects\B12\B12\bin\Debug\B12.pdb
+c:\users\adamk\onedrive\dokumenty\visual studio 2015\Projects\B12\B12\obj\Debug\B12.csprojResolveAssemblyReference.cache
+c:\users\adamk\onedrive\dokumenty\visual studio 2015\Projects\B12\B12\obj\Debug\B12.exe
+c:\users\adamk\onedrive\dokumenty\visual studio 2015\Projects\B12\B12\obj\Debug\B12.pdb
